@@ -5,3 +5,7 @@ const  add = (x, y) => {
 const multiply = (x,y) => {
     return x * y;
 }
+
+const modulo = (x,y) => {
+    return x % y;
+}

@@ -2,5 +2,5 @@
 
 const app = {
     init : () => {},
-    operations: []
+    operations: ["add", "multiply", "modulo"]
 }

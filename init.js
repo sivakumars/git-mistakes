@@ -1,6 +1,7 @@
-//init.js
+//Init.js
 
 const app = {
     init : () => {},
-    operations: ["add", "multiply", "modulo"]
+    operators: ["add", "multiply", "modulo", "division"],
+    isReady: true
 }

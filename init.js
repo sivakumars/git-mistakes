@@ -1,5 +1,6 @@
 //init.js
 
 const app = {
-    init : () => {}
+    init : () => {},
+    operations: []
 }
